@@ -1,0 +1,2 @@
+{'email': 'asliddintursunoff3@gmail.com', 'subject': 'asdasadd', 'message': 'aaxcaxa'}
+ asliddintursunoff3@gmail.com,asdasadd,asd
